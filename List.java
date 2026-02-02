@@ -1,1 +1,1 @@
-package Liste;import java.time.LocalTime;  // Für die Lokale Uhrzeit, wann eine ToDo eingefügt worden ist.import java.time.LocalDate; // Für das Lokale Datum, an welchen Tag die ToDo erstellt worden ist.import java.util.Scanner; // Ein Scanner, der überprüft was der Benutzer eingibt.public class List {private Knoten root = null;public void insert(Knoten k){}}
+package Liste;public class List {private Knoten root = null;public void insert(Knoten k){}}
