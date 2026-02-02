@@ -1,0 +1,1 @@
+package Liste;public class Knoten {    private String value;    private Knoten left;    private Knoten right;    public Knoten(String value){        this.value = value;        left = null;        right = null;    }    public Knoten(String value, Knoten left, Knoten right) {        this.value = value;        this.left = left;        this.right = right;    }}
