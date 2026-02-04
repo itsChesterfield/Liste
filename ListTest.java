@@ -1,1 +1,1 @@
-package liste;public class ListTest {    public static void main(String[] args){    }}
+package liste;import org.junit.jupiter.api.Test;import static org.junit.jupiter.api.Assertions.assertEquals;import org.junit.jupiter.api.BeforeEach;public class ListTest {}
